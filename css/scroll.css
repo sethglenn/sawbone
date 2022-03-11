@@ -1,4 +1,4 @@
-html {
+/* html {
     position: fixed;
     height: 100%;
     overflow: hidden;
@@ -22,4 +22,9 @@ html {
   
   footer {
     position: fixed;
+  } */
+
+  html {
+    margin: 0;
+    overscroll-behavior: none;
   }

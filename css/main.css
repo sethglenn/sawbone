@@ -29,6 +29,17 @@ img {
 .messageColor {
     color: black;
 }
+.shareMargin {
+    margin-top: 96px;
+}
 /* .youMargin {
     margin-right: 20px;
 } */
+@media only screen and (max-width: 600px) {
+    .size {
+        font-size: 4.25rem;
+    }
+    .shareMargin {
+        margin-top: 0px;
+    }
+  }
