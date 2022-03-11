@@ -20,3 +20,9 @@ li:hover a{
     padding-bottom: 136px;
     padding-top: 16px;
 }
+img{
+    border-radius: 8px;
+}
+.imgMargin{
+    margin: 20px;
+}
