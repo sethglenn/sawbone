@@ -4,25 +4,31 @@
 .bannerColor {
     background-color: white;
 }
-.bannerPhoto{
+.bannerPhoto {
     width: 350px;
 }
 .size {
     font-size: 5.25rem;
 }
-.anchorColor{
+.anchorColor {
     color: red;
 }
-li:hover a{
+li:hover a {
     color: white;
 }
-.inputSize{
+.inputSize {
     padding-bottom: 136px;
     padding-top: 16px;
 }
-img{
+img {
     border-radius: 8px;
 }
-.imgMargin{
+.imgMargin {
     margin: 20px;
+}
+.messageColor {
+    color: black;
+}
+.youMargin {
+    margin-right: -30px;
 }
