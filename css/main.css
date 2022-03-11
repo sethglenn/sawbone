@@ -35,6 +35,15 @@ img {
 /* .youMargin {
     margin-right: 20px;
 } */
+.paddingInsta {
+    margin-left: 20px;
+}
+.off-canvas {
+    background: rgb(118, 121, 120);
+}
+.marginTop{
+    margin-top: 20px;
+}
 @media only screen and (max-width: 600px) {
     .size {
         font-size: 4.25rem;
@@ -44,5 +53,8 @@ img {
     }
     .imgMargin {
         margin: 5px;
+    }
+    .paddingInsta {
+        margin-left: 0px;
     }
   }
