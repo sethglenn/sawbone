@@ -10,3 +10,9 @@
 .size {
     font-size: 5.25rem;
 }
+.anchorColor{
+    color: red;
+}
+li:hover a{
+    color: white;
+}
